@@ -1,6 +1,5 @@
-// ID = 150120070
 // Name = Semih
-// Surname = Bað
+// Surname = BaÄŸ
 // Purpose = Draw triangles
 
 #include <stdio.h>
